@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+
+/* De stijl voor het h1 element waarin de verstreken tijd komt te staan */
+h1 {
+    border: 1px solid green;
+    text-align: center;
+    width: 100%;
+}
+
+/* De stijl voor de start button */
+#startTime {
+    padding: 2em;
+    border-radius: 10% 10% 10% 10%;
+    background-color: seagreen;
+    border: none;
+    color: white;
+}
+
+/* De stijl voor de stop button */
+#stopTime {
+    padding: 2em;
+    border-radius: 10% 10% 10% 10%;
+    background-color: red;
+    border: none;
+    color: white;
+}
+
+/* Stijl voor de lijst */
+ul{
+    border: 1px solid seagreen;
+    max-width: 40%;
+    min-height: 25%;
+}
