@@ -18,13 +18,13 @@ function Cijfer(opdracht, cijfer) {
     opdrObj.cijfer = cijfer;
 
 }
-let opdracht1 = new opdracht('FRO', 'Fotogallery');
+
 // OPDRACHT 2.
 // Maak verschillende variabelen voor je opdrachten.
     // Minimaal 3 opdrachten voor 3 verschillende vakken.
     // Totaal dus 9 opdrachten
 // Kijk in week6 of studie.js hoe je een variabele aanmaakt met het keyword new
-
+let opdracht1 = new opdracht('FRO', 'Fotogallery');
 // Maak voor al deze opdrachten een cijfer variabele aan
 // Kijk in week6 of studie.js hoe je een variabele aanmaakt met het keyword new
 
