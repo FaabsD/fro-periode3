@@ -25,6 +25,14 @@ function Cijfer(opdracht, cijfer) {
     // Totaal dus 9 opdrachten
 // Kijk in week6 of studie.js hoe je een variabele aanmaakt met het keyword new
 let opdracht1 = new opdracht('FRO', 'Fotogallery');
+let opdracht2 = new opdracht('FRO', 'Objects');
+let opdracht3 = new opdracht('FRO', 'Lightbox');
+let opdracht4 = new opdracht('K-ID', 'Registration Page');
+let opdracht5 = new opdracht('K-ID', 'Login Page');
+let opdracht6 = new opdracht('K-ID', 'Wireframes');
+let opdracht7 = new opdracht('BAP', 'Uploaden');
+let opdracht8 = new opdracht('BAP', '')
+
 // Maak voor al deze opdrachten een cijfer variabele aan
 // Kijk in week6 of studie.js hoe je een variabele aanmaakt met het keyword new
 
